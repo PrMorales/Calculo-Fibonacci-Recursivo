@@ -1,8 +1,10 @@
 # Calculo-Fibonacci-Recursivo
 
+
 🚀 Recursão, Otimização e Arte Generativa com Python
 
 Este projeto é um estudo sobre o conceito de Recursão apresentado em aula, fui um pouco além e explorei desde fundamentos lógicos e matemáticos até otimização do código e criação de imagens.
+
 
 📌 Visão Geral
 
@@ -11,6 +13,8 @@ O projeto foi estruturado em três pilares que conectam a teoria acadêmica com 
 - Engenharia de Performance: Otimização de algoritmos através de Memoização (Cache).
 - Computação Gráfica: Criação de fractais orgânicos utilizando lógica recursiva.
 
+
+________________________________________________________________________________________________________________________________________________
 
 
 1. 📈 Fibonacci & Análise de Dados
