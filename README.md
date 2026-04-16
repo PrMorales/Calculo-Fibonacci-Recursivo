@@ -23,6 +23,10 @@ Nesta etapa, implementamos a sequência de Fibonacci seguindo as regras clássic
 -> Diferencial: Adicionei uma camada de visualização de dados com matplotlib.
 -> Insight: O gráfico gerado demonstra o Crescimento Exponencial, permitindo prever o comportamento do algoritmo antes mesmo de executá-lo com grandes volumes de dados.
 
+
+<img width="626" height="504" alt="image" src="https://github.com/user-attachments/assets/31590a09-f48a-4cfc-a0d8-09f71c18209b" />
+
+
 ________________________________________________________________________________________________________________________________________________
 
 
