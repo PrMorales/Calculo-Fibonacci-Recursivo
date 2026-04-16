@@ -11,11 +11,17 @@ O projeto foi estruturado em três pilares que conectam a teoria acadêmica com 
 - Engenharia de Performance: Otimização de algoritmos através de Memoização (Cache).
 - Computação Gráfica: Criação de fractais orgânicos utilizando lógica recursiva.
 
+
+
 1. 📈 Fibonacci & Análise de Dados
 
 Nesta etapa, implementamos a sequência de Fibonacci seguindo as regras clássicas da recursão: Caso Base e Passo Recursivo.
 -> Diferencial: Adicionei uma camada de visualização de dados com matplotlib.
 -> Insight: O gráfico gerado demonstra o Crescimento Exponencial, permitindo prever o comportamento do algoritmo antes mesmo de executá-lo com grandes volumes de dados.
+
+________________________________________________________________________________________________________________________________________________
+
+
   
 2. ⚡ A diferença de performance (memoização)
 
@@ -27,6 +33,7 @@ Aqui, exploramos o impacto da recursão na infraestrutura.
 
 <img width="400" height="67" alt="image" src="https://github.com/user-attachments/assets/ddcd7357-38ae-40e5-8dc4-f585b812ebb9" />
 
+________________________________________________________________________________________________________________________________________________
 
 
 3. 🌳 Arte Generativa: Árvore Fractal
@@ -37,6 +44,7 @@ Utilizando a biblioteca turtle (adaptada para ambientes Cloud via ColabTurtlePlu
 
 <img width="549" height="455" alt="image" src="https://github.com/user-attachments/assets/b19e8a6d-1d79-4752-a692-4dd6b2389004" />
 
+________________________________________________________________________________________________________________________________________________
 
    
 🛠️ Tecnologias UtilizadasLinguagem: Python
